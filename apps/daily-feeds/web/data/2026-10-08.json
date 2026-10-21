@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "category": "ai-news",
+      "domain": "edgeai.news",
+      "title": "手机端语音识别延迟降到 200ms 内",
+      "note": "全流程在端侧完成，离线场景下也能实时转写。",
+      "url": "https://example.com/ai-news/ondevice-asr",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "ai-collab",
+      "domain": "pipeline.dev",
+      "title": "CI 日志的 AI 摘要接入主流平台",
+      "note": "失败日志自动归因到最近一次改动，附修复建议。",
+      "url": "https://example.com/agent/ci-summary",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "product",
+      "domain": "focusmode.app",
+      "title": "番茄钟应用加入会议日历感知",
+      "note": "检测到日历有会议时自动缩短专注段，避免被打断。",
+      "url": "https://example.com/product/focusmode",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "product",
+      "domain": "mindmap.app",
+      "title": "思维导图支持自然语言生成骨架",
+      "note": "输入一段话自动展开成节点树，再手动微调。",
+      "url": "https://example.com/product/mindmap",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "aesthetic",
+      "domain": "gridzine.net",
+      "title": "独立杂志用纯文字排版撑满内页",
+      "note": "没有一张图片，全靠字号、字重和栏宽制造层次。",
+      "url": "https://example.com/design/text-only",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "indie",
+      "domain": "deskclock.store",
+      "title": "实体时钟众筹结束，超目标四倍",
+      "note": "单人设计生产的桌面时钟，主打无屏幕和机械旋钮。",
+      "url": "https://example.com/indie/deskclock",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "indie",
+      "domain": "changelog.blog",
+      "title": "独立开发者把更新日志做成订阅产品",
+      "note": "帮小团队自动生成并托管 changelog，按项目数收费。",
+      "url": "https://example.com/indie/changelog",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "marketing",
+      "domain": "emailcraft.io",
+      "title": "邮件营销工具按打开时间自动投递",
+      "note": "根据每个订阅者的历史打开记录选择发送时刻。",
+      "url": "https://example.com/marketing/sendtime",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    }
+  ]
+}

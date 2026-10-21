@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "category": "ai-news",
+      "domain": "example-ai.dev",
+      "title": "开源推理框架发布轻量运行时",
+      "note": "支持在笔记本 GPU 上跑 7B 模型；安装包不到 100MB，适合本地原型验证。",
+      "url": "https://example.com/ai-news/runtime",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "ai-news",
+      "domain": "modelbench.dev",
+      "title": "多模态榜单新增长视频理解项",
+      "note": "一小时以上内容的问答准确率普遍偏低，长上下文仍是硬骨头。",
+      "url": "https://example.com/ai-news/video-bench",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "ai-news",
+      "domain": "openweights.org",
+      "title": "三家实验室同周开源中尺寸模型",
+      "note": "20B~30B 档位竞争加剧，本地部署性价比继续走高。",
+      "url": "https://example.com/ai-news/open-weights",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "ai-collab",
+      "domain": "agenttools.io",
+      "title": "Agent 任务编排支持断点续跑",
+      "note": "长任务中断后从最近快照恢复，不再整轮重来；状态面板可以看清每一步。",
+      "url": "https://example.com/agent/resume",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "ai-collab",
+      "domain": "termagent.dev",
+      "title": "终端里的多模型会话管理器",
+      "note": "不同模型各开一个面板并行干活，统一查看任务状态和输出。",
+      "url": "https://example.com/agent/terminal",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "ai-collab",
+      "domain": "reviewbot.dev",
+      "title": "代码评审机器人学会先看 diff 上下文",
+      "note": "不再对单行代码发表意见，误报率明显下降。",
+      "url": "https://example.com/agent/review",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "product",
+      "domain": "sketchpad.app",
+      "title": "白板工具把评论钉在图形上",
+      "note": "拖动图形时评论跟着走，解决画布一大就找不到反馈的老问题。",
+      "url": "https://example.com/product/whiteboard",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "product",
+      "domain": "clipnote.app",
+      "title": "截图工具自带步骤文档生成",
+      "note": "连续截图自动拼成带序号的教程，导出即用，省掉排版时间。",
+      "url": "https://example.com/product/clipnote",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "product",
+      "domain": "tabclear.app",
+      "title": "浏览器标签页自动归档器",
+      "note": "超过两小时没动的标签自动收进列表，需要时一键恢复。",
+      "url": "https://example.com/product/tabclear",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "aesthetic",
+      "domain": "typejournal.cn",
+      "title": "一套以宋体为骨架的展览视觉",
+      "note": "大字号标题配合大量留白，印刷与屏幕两端保持同一套节奏。",
+      "url": "https://example.com/design/exhibition",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "aesthetic",
+      "domain": "papercraft.studio",
+      "title": "用再生纸做的灯具系列",
+      "note": "纸浆压模留下自然肌理，光源透过材料时呈现温暖的颗粒感。",
+      "url": "https://example.com/design/paper-lamp",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "aesthetic",
+      "domain": "citylight.photo",
+      "title": "雨夜街头的长曝光影集",
+      "note": "霓虹在湿漉漉的路面拉出光带，构图克制，色彩只剩红与青。",
+      "url": "https://example.com/photo/rain-night",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "indie",
+      "domain": "solostory.co",
+      "title": "单人团队的 newsletter 突破一万订阅",
+      "note": "作者复盘三年更新节奏：固定频率比爆款重要，付费转化靠长期信任。",
+      "url": "https://example.com/indie/newsletter",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "indie",
+      "domain": "homecloud.dev",
+      "title": "把旧笔记本改成家庭相册服务器",
+      "note": "一条命令部署，手机照片自动备份；功耗不到 10 瓦。",
+      "url": "https://example.com/indie/homecloud",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "indie",
+      "domain": "tinytool.dev",
+      "title": "一个只做格式转换的网站月入三千美元",
+      "note": "没有账号体系，靠搜索流量和极简体验取胜。",
+      "url": "https://example.com/indie/tinytool",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "marketing",
+      "domain": "growlab.io",
+      "title": "SEO 工具开始追踪 AI 引用",
+      "note": "除了关键词排名，还能看到模型回答里有没有提到你的产品。",
+      "url": "https://example.com/marketing/ai-visibility",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "marketing",
+      "domain": "launchpage.co",
+      "title": "落地页 A/B 测试做到组件级",
+      "note": "只换标题或只换按钮也能独立实验，数据按组件维度汇总。",
+      "url": "https://example.com/marketing/ab-test",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    },
+    {
+      "category": "marketing",
+      "domain": "referralkit.io",
+      "title": "推荐裂变工具支持自定义奖励阶梯",
+      "note": "邀请人数越多奖励越高，后台直接配规则，不用改代码。",
+      "url": "https://example.com/marketing/referral",
+      "source": {
+        "type": "content",
+        "name": "个人精选"
+      }
+    }
+  ]
+}
