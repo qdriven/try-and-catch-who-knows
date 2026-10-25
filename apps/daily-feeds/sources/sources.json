@@ -1,0 +1,21 @@
+{
+  "$comment": "来源注册表：Source 层与 Web Site 层分离，本文件只声明内容从哪里来。type=rss 为订阅源（url + category + limit），type=content 为手工整理的每日内容（path 指向目录，文件名即日期）。新增来源只需在此登记。",
+  "sources": [
+    {
+      "id": "personal-digest",
+      "type": "content",
+      "name": "个人精选",
+      "path": "content",
+      "description": "手工整理的每日精选条目，文件名即日期（YYYY-MM-DD.json）"
+    },
+    {
+      "id": "hacker-news-daily",
+      "type": "rss",
+      "name": "Hacker News Daily",
+      "url": "https://hnrss.org/daily",
+      "category": "ai-news",
+      "limit": 5,
+      "enabled": false
+    }
+  ]
+}
